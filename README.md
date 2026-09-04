@@ -1,20 +1,26 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=1B2A47&height=200&section=header&text=Tojo%20Tom&fontSize=48&fontColor=ffffff&fontAlignY=40" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050515,50:00F2FE,100:0072FF&height=220&section=header&text=Tojo%20Tom&fontSize=52&fontColor=ffffff&fontAlignY=38&animation=twinkling" width="100%" alt="Cyberpunk Header Banner" />
 
   <br />
 
-  <h3><code><font color="#38bdf8">Web Development Enthusiast</font></code></h3>
+  <h3><code><font color="#00F2FE">⚡ WEB DEVELOPMENT & SOFTWARE ENGINEER ⚡</font></code></h3>
 
-  <p>Software Developer &bull; Continuous Learning &bull;</p>
+  <p>
+    <code><font color="#00F2FE">Software Developer</font></code> &bull; 
+    <code><font color="#38BDF8">Continuous Learning</font></code> &bull; 
+    <code><font color="#00F2FE">Creative Ideas</font></code>
+  </p>
 
 </div>
 
 <br />
 
-## 🛠 Tech Stack
+## <font color="#00F2FE">🛠 Tech Stack</font>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="4px" />
+
+<br /><br />
 
 <div align="center">
 
@@ -38,15 +44,17 @@
 
   <br /><br />
 
-  <sub>Technologies I use to build and manage web applications</sub>
+  <sub><font color="#00F2FE">Technologies I use to build and manage web applications</font></sub>
 
 </div>
 
 <br />
 
-## 🌱 Currently Learning
+## <font color="#00F2FE">🌱 Currently Learning</font>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="4px" />
+
+<br /><br />
 
 <div align="center">
 
@@ -59,7 +67,22 @@
 
   <br /><br />
 
-  <sub>Focusing on modern software development and scalable applications</sub>
+  <sub><font color="#00F2FE">Focusing on modern software development and scalable applications</font></sub>
 
 </div>
+
+<br />
+
+## <font color="#00F2FE">📊 GitHub Analytics</font>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="4px" />
+
+<br /><br />
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Tojo-Tom&show_icons=true&theme=cyberpunk&hide_border=true&count_private=true" alt="GitHub Stats" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tojo-Tom&layout=compact&theme=cyberpunk&hide_border=true" alt="Top Languages" />
+</div>
+
 

@@ -4,7 +4,7 @@
 
   <br><br>
 
-  <h2 style="color:#00ff00;">> Software_Developer (Kerala)</h2>
+  <h2 style="color:#00ff00;">> Software_Developer </h2>
   <p align="center"><code>[ Full Stack | Continuous Learning | Creative Ideas ]</code></p>
 </div>
 
